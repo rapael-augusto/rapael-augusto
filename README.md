@@ -42,4 +42,12 @@ I'm a Computer Science student and a software developer passionate about buildin
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rapael-augusto/rapael-augusto/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rapael-augusto/rapael-augusto/output/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rapael-augusto/rapael-augusto/output/snake.svg">
+  </picture>
+</div>
+
 > (P.S. Since you've read this far, check out my pinned repositories.)
